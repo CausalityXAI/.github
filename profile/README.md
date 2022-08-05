@@ -7,4 +7,5 @@
 
 ## Members
   - SeungHwan AN
-  - Gyungju Gil
+  - Gyongju Gil
+  - SungSu Choi
